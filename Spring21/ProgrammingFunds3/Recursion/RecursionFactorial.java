@@ -17,7 +17,7 @@ public class RecursionFactorial {
 }
 
 
-/* we can conclude that ultimately the value of n will become 1 or less than 1
+/* The value of n will become 1 or less than 1
 and at this point, the method will return value 1. This base condition will be
 reached and the function will stop. Note that the value of n can be anything 
 as long as it satisfies the base condition. */
