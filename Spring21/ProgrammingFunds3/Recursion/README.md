@@ -16,14 +16,13 @@ Any method that implements Recursion has two basic parts:
 1) Method call which can call itself i.e. recursive
 2) A precondition that will stop the recursion
 
-methodName (T parameters…)
-{   
-    if (precondition == true)           
-//precondition or base condition
-    {
-        return result;
+    methodName (T parameters…)
+    {   
+    if (precondition == true)    
+    //precondition or base condition
+     {
+            return result;
+        }
+        return methodName (T parameters…);
+          //recursive call
     }
-    return methodName (T parameters…);
- 
-        //recursive call
-}
