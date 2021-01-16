@@ -1,1 +1,1 @@
-References, and study work for Programming Fundamentals III.
+References, and study guides for Programming Fundamentals III.
