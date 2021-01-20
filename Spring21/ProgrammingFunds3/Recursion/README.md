@@ -2,7 +2,7 @@ Recursion Study Guide
 
 Recursion - is a technique for elegant solutions to problems that can't use loops
 
-Base Case - or stopping condition, is a recusrsive method solving the simplest case
+Base Case - or stopping condition, is a recursive method solving the simplest case
 
 Recursive call - new problem (subproblem) resembles original rpoblem, method calls fresh copy of itself to work smaller problem
 
