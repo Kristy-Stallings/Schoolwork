@@ -4,7 +4,7 @@ Recursion - is a technique for elegant solutions to problems that can't use loop
 
 Base Case - or stopping condition, is a recursive method solving the simplest case
 
-Recursive call - new problem (subproblem) resembles original rpoblem, method calls fresh copy of itself to work smaller problem
+Recursive call - new problem (subproblem) resembles original problem, method calls fresh copy of itself to work smaller problem
 
 Infinite Recursion - recursion doesn't reduce problem to base case, or no base case specifid
 
